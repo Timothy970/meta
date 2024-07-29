@@ -1,0 +1,70 @@
+2024/07/22 12:49:08 Server started on :8080
+2024/07/22 12:50:14 Server started on :8080
+2024/07/22 13:03:34 :::::hub mode:::::: 
+2024/07/22 13:03:34 :::::hub token:::::: 
+2024/07/22 13:03:34 Failed webhook verification
+2024/07/22 13:04:39 Could not decode callback: EOF
+2024/07/22 13:05:23 Received callback: map[dt:12333]
+2024/07/22 13:08:56 Received callback: map[dt:12333]
+2024/07/22 13:10:35 Received callback: map[dt:12333]
+2024/07/22 13:10:44 Server started on :8080
+2024/07/22 13:10:48 :::::callback initiated::
+2024/07/22 13:10:48 Received callback: map[dt:12333]
+
+
+
+
+2024/07/22 13:16:31 :::::hub mode:::::: 
+2024/07/22 13:16:31 :::::hub token:::::: 
+2024/07/22 13:16:31 Failed webhook verification
+
+
+2024/07/22 14:42:03 Server started on port 8080
+
+
+2024/07/22 14:54:40 Received verification request: Method=GET, URL=/webhook, Parameters: mode=, challenge=, verify_token=
+2024/07/22 14:54:40 Failed verification: missing mode or token
+
+
+2024/07/22 14:56:44 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy&hub.challenge=2007647624, Parameters: mode=subscribe, challenge=2007647624, verify_token=timothy
+2024/07/22 14:56:44 Webhook verified with challenge: 2007647624
+2024/07/22 14:57:29 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy&hub.challenge=2007647624, Parameters: mode=subscribe, challenge=2007647624, verify_token=timothy
+2024/07/22 14:57:29 Webhook verified with challenge: 2007647624
+
+
+2024/07/22 14:59:44 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=test&hub.challenge=200764762, Parameters: mode=subscribe, challenge=200764762, verify_token=test
+2024/07/22 14:59:44 Failed verification: invalid mode or token
+2024/07/22 14:59:57 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=test&hub.challenge=2007647624, Parameters: mode=subscribe, challenge=2007647624, verify_token=test
+2024/07/22 14:59:57 Failed verification: invalid mode or token
+2024/07/22 15:00:09 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy&hub.challenge=2007647624, Parameters: mode=subscribe, challenge=2007647624, verify_token=timothy
+2024/07/22 15:00:09 Webhook verified with challenge: 2007647624
+2024/07/22 15:00:23 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy, Parameters: mode=subscribe, challenge=, verify_token=timothy
+2024/07/22 15:00:23 Webhook verified with challenge: 
+
+
+
+2024/07/22 16:43:39 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy, Parameters: mode=subscribe, challenge=, verify_token=timothy
+2024/07/22 16:43:39 Webhook verified with challenge: 
+2024/07/22 16:43:53 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy&hub.challenge=2007647624, Parameters: mode=subscribe, challenge=2007647624, verify_token=timothy
+2024/07/22 16:43:53 Webhook verified with challenge: 2007647624
+2024/07/22 16:45:03 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy&hub.challenge=2007647624, Parameters: mode=subscribe, challenge=2007647624, verify_token=timothy
+2024/07/22 16:45:03 Webhook verified with challenge: 2007647624
+
+2024/07/22 18:45:13 Server started on port 8080
+2024/07/22 18:47:13 Received verification request: Method=GET, URL=/webhook?hub.mode=subscribe&hub.verify_token=timothy&hub.challenge=2007647624, Parameters: mode=subscribe, challenge=2007647624, verify_token=timothy
+2024/07/22 18:47:13 Webhook verified with challenge: 2007647624
+2024/07/22 18:48:44 Received verification request: Method=GET, URL=/webhook, Parameters: mode=, challenge=, verify_token=
+2024/07/22 18:48:44 Failed verification: missing mode or token
+
+2024/07/22 19:06:06 Server started on port 8080
+2024/07/22 19:54:13 Server started on port 8080
+2024/07/22 19:54:13 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2024/07/22 20:00:32 Server started on port 8080
+2024/07/22 20:00:32 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+
+2024/07/22 20:05:13 Server started on port 8080
+2024/07/22 20:05:13 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+
+
